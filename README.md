@@ -1,2 +1,2 @@
 # mycprograms
-My Codes for C Programming Language
+My C Programming Codes
