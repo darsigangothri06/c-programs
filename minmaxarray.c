@@ -20,18 +20,13 @@ int main()
         if (min>a[i])
             min = a[i];
     }
-
     printf("Min is %d and Max is %d", min, max);
-
     orgsum = min+max;
-
     printf("\nOrg sum is %d", orgsum);
-
     if(orgsum>10)
         sum = rev(orgsum);
     else
         sum = orgsum;
-
     printf("\nREVSUM is %d", sum);
     return 0;
 }
@@ -39,7 +34,6 @@ int main()
 int rev(int a)
 {
     int num=a, revr, rem;
-
     while(num>0)
     {
         rem = num%10;
@@ -47,7 +41,6 @@ int rev(int a)
         num /= 10;
     }
     return(revr);
-
 }
 
 
