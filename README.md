@@ -7,7 +7,12 @@
 				Input:  369  375 <br>
 				Output: 370 371 <br>
 	</li>
-		<li> <a href = "https://github.com/darsigangothri06/mycprograms/blob/main/arrayrever.c">C Program to reverse the elements(half-half) of an array</a>
+		<li> <a href = "https://github.com/darsigangothri06/mycprograms/blob/main/arrayrever.c">C Program to reverse the elements(half-half) of an array<br></a>
+			<b>Sample I/O:</b> <br>
+				Input: 1 2 3 4 5 <br>
+				Output:  2 1 3 5 4<br>
+				using dynamic memory allocation	
+	</li>
 		<li> <a href = "https://github.com/darsigangothri06/mycprograms/blob/main/arraysortdup_new.c">Eliminate duplicates in two arrays</a></li>
 		<li> <a href = "https://github.com/darsigangothri06/mycprograms/blob/main/arrconcatenate.c"> Program to Concatenate two arrays using DMA</a></li>
 		<li> <a href = "https://github.com/darsigangothri06/mycprograms/blob/main/digitalclock.c"> C Program to create a digital clock</a></li>
