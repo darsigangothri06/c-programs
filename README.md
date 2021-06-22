@@ -1,7 +1,7 @@
 # mycprograms
 <h2><i>These are some of my C programs which are moderate level</i></h2>
 	<ul>
-		<li> <a href = "https://github.com/darsigangothri06/mycprograms/blob/main/armstrange.c">Find Armstrong Numbers in given range using DMA</a> 
+		<li> <a href = "https://github.com/darsigangothri06/mycprograms/blob/main/armstrange.c">Find Armstrong Numbers in given range using DMA</a> <br>
 	C Program to Find Armstrong Numbers in a given range and storing the result in a new array by using DMA <br>
 			<b>Sample I/O: <br></b>
 				Input:  369  375 <br>
