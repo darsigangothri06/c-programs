@@ -28,7 +28,7 @@ Program to find the minimum and maximum elements of an array and calculate their
 * [Find whether the number is Prime/Perfect/Armstrong](https://github.com/darsigangothri06/mycprograms/blob/main/number.c "Just a basic program") <br>
 C program to find the given number is Prime or Perfect or Palindrome or Armstrong number using functions.
 * [Program to check the password is eligible or not](https://github.com/darsigangothri06/mycprograms/blob/main/password.c "Try this!!!")<br>
-C program to check whether the entered password is eligible or not <br>
+C program to create a password eligibilty checker. <br>
 			**Conditions:**<br>
 				1. Password should be longer than 8 <br>
 				2. Password should contain at least one lowercase alphabet <br>
