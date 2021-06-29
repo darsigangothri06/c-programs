@@ -1,5 +1,5 @@
 # mycprograms
-<h2><i>These are some of my C programs which are moderate level</i></h2>
+<h2><i>These are some of my C programs which are moderate - hard level</i></h2>
 	
 * [Find Armstrong Numbers in given range using DMA](https://github.com/darsigangothri06/mycprograms/blob/main/armstrange.c "Just a sec! You got it")<br>
 	C Program to Find Armstrong Numbers in a given range and storing the result in a new array by using DMA <br>
