@@ -1,4 +1,4 @@
-## *C programs which are moderate - hard level*
+## *C programs*
 	
 * [Find Armstrong Numbers in given range using DMA](https://github.com/darsigangothri06/mycprograms/blob/main/armstrange.c "Just a sec! You got it")<br>
 * [C Program to reverse the elements(half-half) of an array](https://github.com/darsigangothri06/mycprograms/blob/main/arrayrever.c "You can try, it's super cool")<br>
