@@ -11,3 +11,4 @@
 * [Program to check the password is eligible or not](https://github.com/darsigangothri06/mycprograms/blob/main/password.c "Try this!!!")<br>
 * [Program to reverse every word in a sentence](https://github.com/darsigangothri06/mycprograms/blob/main/reversewords.c "Reverse the string!!")<br>
 * [Program to concatenate two strings using DMA](https://github.com/darsigangothri06/mycprograms/blob/main/strconcatenate.c "String Concatenation")<br>
+* [Program to create a digital clock](https://github.com/darsigangothri06/mycprograms/blob/main/digitalclock.c)
